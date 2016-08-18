@@ -1,2 +1,2 @@
 # Java
-sdf
+Repo for Java labs and exercise
